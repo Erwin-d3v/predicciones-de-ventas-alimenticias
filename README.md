@@ -75,3 +75,13 @@ Para la cuarta parte, la tarea es crear numerosas visualizaciones de datos para 
 * Aprovechen sus limpiezas, exploraciones y análisis anteriores.
 * Creen un mínimo de dos visualizaciones de datos para ayudar a otros comprender las tendencias en los datos (análisis de datos explicativos).
 * Puesto que estos gráficos son para la elaboración de informes, asegúrense de que tengan un buen aspecto incluyendo títulos, leyendas, etc.
+
+## Proyecto 1 - Parte 5 (base)
+
+Para la parte 5, regresarán al conjunto de datos original con el objetivo de evitar una fuga de datos.  
+
+Nota: Si imputaron los valores faltantes basados en un cálculo en todo el conjunto de datos (como la media), ahora deben realizar ese paso después de hacer train test split usando SimpleImputer.  
+
+* Identifiquen el objetivo (X) y las características (y): Asignen la columna "Item_Outlet_Sales" somo el objetivo y el resto de las variables relevantes como el matriz de características.  
+* Realicen un train test split 
+* Creen un pipeline de preprocesamiento para preparar el conjunto de datos para el aprendizaje automático.
