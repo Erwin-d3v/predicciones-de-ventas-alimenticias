@@ -85,3 +85,30 @@ Nota: Si imputaron los valores faltantes basados en un cálculo en todo el conju
 * Identifiquen el objetivo (X) y las características (y): Asignen la columna "Item_Outlet_Sales" somo el objetivo y el resto de las variables relevantes como el matriz de características.  
 * Realicen un train test split 
 * Creen un pipeline de preprocesamiento para preparar el conjunto de datos para el aprendizaje automático.
+
+## Proyecto 1 - Final (básico)
+
+Esta semana finalizarán el proyecto de predicción de ventas. El objetivo de esto es ayudar al distribuidor comprender las propiedades de los productos y los puntos de venta que desempeñan un papel crucial en la predicción de las ventas.
+
+1) La primera tarea será crear un modelo de regresión lineal para predecir las ventas.
+* Creen un modelo de regresión lineal.
+* Evalúen el rendimiento del modelo basándose en $R²$.
+* Evalúen el rendimiento del modelo basándose en $RECM$.
+
+2) La segunda tarea será crear un modelo de árbol de regresión para predecir las ventas.
+* Creen un modelo simple de árbol de regresión.
+* Comparen el rendimiento del modelo basándose en $R²$.
+* Comparen el rendimiento del modelo basándose en $RECM$.
+
+3) Acaban de intentar 2 diferentes modelos en el conjunto de datos. Deben determinar qué modelo implementar.
+* En general, ¿qué modelo recomiendan?
+* Justifiquen su recomendación.
+
+4) Para concluir este proyecto, deben prepara una presentación ejecutiva (no técnica) sobre el proyecto.
+* Creen una diapositiva para una audiencia no técnica presentando estos datos, sus análisis y las recomendaciones del modelo.
+* No incluyan la limpieza de datos, el preprocesamiento o los pasos de exploración en la presentación.
+* Incluyan dos ideas del análisis con el apoyo de imágenes de calidad adecuadas para la “presentación de informes”.
+* Preparen una presentación de audio corta (5 minutos) usando las diapositivas (Presentaciones de Google, PowerPoint, etc.). 
+* Grábense dando esta presentación. No duden en utilizar cualquier software disponible (Zoom, OBS, etc.). Incluyan esta grabación en el repositorio GitHub.  La presentación requiere de un audio, pero el video es opcional.
+* Finalicen su LÉAME con una visión general del proyecto, una explicación de los datos (incluyendo visualizaciones) y un resumen de los resultados y recomendaciones. Piensen de esto como un resumen ejecutivo o un resumen del proyecto.
+* Asegúrense que el repositorio GitHub esté organizado y se vea profesional. Recuerden que esto se debe usar para mostrar sus habilidades y capacidades en la ciencia de datos.
